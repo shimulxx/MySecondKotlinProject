@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MySecondKotlinProject</string>
+    <string name="title_tx">Android World</string>
+</resources>
